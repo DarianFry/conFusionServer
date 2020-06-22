@@ -186,4 +186,4 @@ favouriteRouter.route('/:dishId')
         .catch((err) => next(err));
 });
 
-module.exports = favouriteRouter;
+module.exports = favoriteRouter;
